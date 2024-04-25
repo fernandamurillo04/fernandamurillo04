@@ -1,7 +1,6 @@
 <h1 align="center">
    Hi, I'm Fernanda! 👋
 </h1>
---- 
 
 <p align="center">
 I'm a dedicated and fast-learning Software Engineering Student, passionate about overcoming challenges. I find in every challenge an opportunity to dive deeper into the technological world. I’ve worked mostly on full-stack development, exploring everything from database management, both SQL and NoSQL, to the field of web development, where I’ve obtained skills in languages such as HTML 5, CSS 3, JavaScript, Java, Python, C++, and important tools like Bootstrap.
